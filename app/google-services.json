@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "485473346770",
+    "firebase_url": "https://pixel-parade.firebaseio.com",
+    "project_id": "pixel-parade",
+    "storage_bucket": "pixel-parade.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485473346770:android:da92d0f311bb29dc",
+        "android_client_info": {
+          "package_name": "com.goodideas.pixelparade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485473346770-j5mm4b80054uokfjs3vctr2gho29b7jh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyqGV6IwfrY5yakJM9vlvC-qCDUYJxK9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485473346770-j5mm4b80054uokfjs3vctr2gho29b7jh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

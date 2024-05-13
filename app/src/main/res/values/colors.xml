@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="deepSkyBlue">#0180fd</color>
+    <color name="aquaBlue">#00d3d4</color>
+    <color name="brightTurquoiseAlpha30">#4d04ebed</color>
+    <color name="lightAquaBlue">#e6fafa</color>
+    <color name="textGray">#707070</color>
+    <color name="textMediumGray">#838383</color>
+    <color name="textShareAppGray">#989898</color>
+    <color name="textLightGray">#c7c7cc</color>
+    <color name="textElm">#257373</color>
+
+    <color name="dialogBgColor">#f8f8f8</color>
+    <color name="dialogEdittextBorderColor">#8e8e93</color>
+
+    <color name="sticker_background">#66000000</color>
+
+    <color name="divider_line_fill">#0c000080</color>
+    <color name="divider_line_stroke">#3f3f3f</color>
+</resources>

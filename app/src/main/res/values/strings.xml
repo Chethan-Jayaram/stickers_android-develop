@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">PixelParade</string>
+
+    <string name="get_it">Get it to view and use all stickers</string>
+
+    <string name="loading_text">Loading stickers, please wait</string>
+    <string name="loading_error_caption">Loading error</string>
+    <string name="loading_error_text">There is a problem connecting to store. Please try again later.</string>
+
+    <string name="get_more">Get more for free</string>
+    <string name="get_more_text">Give us your email and we will notify about new exclusive original stickers</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_yes">YES</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_dismiss">Dismiss</string>
+
+    <string name="congrat_text">Congratulations!</string>
+    <string name="got_all_text">You have collected all of the Pixel Parade stickers.\nPlease check back for new releases</string>
+
+    <string name="share_text">Share sticker</string>
+
+    <string name="permission_write_external_storage_rationale">Application needs write sd card permission.</string>
+    <string name="permission_write_external_storage_button">settings</string>
+
+    <string name="privacy_policy_button_text">Privacy policy</string>
+    <string name="camera_button_text">Take a picture</string>
+    <string name="search_button_text">Search</string>
+
+    <string name="photo_receiving_dialog_title">Photo</string>
+    <string-array name="options_for_taking_photos">
+        <item>Take photo</item>
+        <item>Choose photo</item>
+    </string-array>
+
+    <string name="sticker_on_photo_close_dialog_title">Are you sure?</string>
+    <string name="sticker_on_photo_close_dialog_text">If you dismiss this screen, all your progress will be lost</string>
+
+    <string name="main_no_sticker_pack_dialog_title">Oops</string>
+    <string name="main_no_sticker_pack_dialog_text">Looks like You haven’t any sticker packs. Check out our beautiful store, and grab some sticker pack!</string>
+
+    <string name="main_not_found_text">Your search results have NOT been found.\nPlease try a different key word(s).</string>
+
+    <string name="cache_error">Error caching file. Try later</string>
+    <string name="processing_error">Image processing error. Try later</string>
+</resources>

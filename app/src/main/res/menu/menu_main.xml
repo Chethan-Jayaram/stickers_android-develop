@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/main_menu_camera"
+        android:icon="@drawable/ic_photo_camera_24dp"
+        android:title="@string/camera_button_text"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/main_menu_search"
+        android:icon="@drawable/shape"
+        android:title="@string/search_button_text"
+        app:showAsAction="ifRoom"
+        android:orderInCategory="100"/>
+
+    <item
+        android:id="@+id/main_menu_privacy_policy"
+        android:title="@string/privacy_policy_button_text"
+        app:showAsAction="never" />
+</menu>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="24dp"
+    android:layout_marginStart="4dp"
+    android:layout_marginTop="8dp"
+    android:layout_marginEnd="4dp"
+    android:layout_marginBottom="8dp">
+
+    <TextView
+        android:id="@+id/tag_chip"
+        android:layout_width="wrap_content"
+        android:layout_height="24dp"
+        android:background="@drawable/chip"
+        android:foreground="?selectableItemBackground"
+        android:gravity="center"
+        android:paddingStart="8dp"
+        android:paddingEnd="8dp"
+        android:textColor="@color/textElm"
+        tools:text="Purple" />
+
+</FrameLayout>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_sticker_width">108dp</dimen>
+    <dimen name="default_sticker_height">108dp</dimen>
+    <dimen name="small_sticker_width">60dp</dimen>
+    <dimen name="small_sticker_height">60dp</dimen>
+    <dimen name="photo_sticker_width">76dp</dimen>
+    <dimen name="photo_sticker_height">76dp</dimen>
+    <dimen name="btn_corner_radius">2dp</dimen>
+    <dimen name="dialog_corner_radius">14dp</dimen>
+    <dimen name="sticker_big_size">216dp</dimen>
+    <dimen name="sticker_big_top_margin">35dp</dimen>
+    <dimen name="shares_top_margin">286dp</dimen>
+    <dimen name="share_app_icon_size">60dp</dimen>
+    <dimen name="share_app_item_width">104dp</dimen>
+    <dimen name="share_app_list_height">240dp</dimen>
+    <dimen name="negative_button_text_size">6sp</dimen>
+    <dimen name="positive_button_text_size">12sp</dimen>
+</resources>
